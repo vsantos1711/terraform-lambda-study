@@ -7,7 +7,7 @@
 
 ##
 
-[![STATUS](https://img.shields.io/static/v1?label=STATUS&message=IN%20PROGRESS&color=blue&style=for-the-badge)]()
+[![STATUS](https://img.shields.io/static/v1?label=STATUS&message=IN%20PROGRESS&color=blue&style=for-the-badge)](https://github.com/vsantos1711/terraform-lambda-study?tab=readme-ov-file#to-do)
 
 This project is a basic example of how to create a lambda function using TypeScript and Terraform. The lambda function is written in TypeScript and then transpiled to JavaScript for use by AWS Lambda. Terraform is used to create the necessary infrastructure on AWS and configure the lambda function.
 

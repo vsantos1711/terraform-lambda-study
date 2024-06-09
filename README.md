@@ -1,4 +1,4 @@
-<h1 align="center"> 🟪 Training the use of Terraform to create a lambda function </h1>
+# 🟪 Training the use of Terraform to create a lambda function
 
 <div align="center">
  <img src="assets/terraform-image.png" alt="Terraform logo" width="180px" height="155px" />

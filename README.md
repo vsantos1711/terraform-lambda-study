@@ -1,6 +1,6 @@
 # 🟪 Training the use of Terraform to create a lambda function
 
-![Frame](https://raw.githubusercontent.com/vsantos1711/terraform-lambda-study/main/assets/example.png)
+![Frame](https://raw.githubusercontent.com/vsantos1711/terraform-lambda-study/main/assets/tech.png)
 
 ## Description
 

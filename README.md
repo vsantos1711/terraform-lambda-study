@@ -1,13 +1,11 @@
 # 🟪 Training the use of Terraform to create a lambda function
 
-<p align=center>
- <img src="assets/terraform-image.png" alt="Terraform logo" width="180px" height="155px" />
- <img src="assets/lambda-image.png" alt="AWS Lambda function logo" width="180" height="155px"/>
-</p>
+<div align="center">
+ <img src="https://raw.githubusercontent.com/vsantos1711/terraform-lambda-study/main/assets/terraform-image.png" alt="Terraform logo" width="180px" height="155px" />
+ <img src="https://raw.githubusercontent.com/vsantos1711/terraform-lambda-study/main/assets/lambda-image.png" alt="AWS Lambda function logo" width="180" height="155px"/>
+</div>
 
-##
-
-[![STATUS](https://img.shields.io/static/v1?label=STATUS&message=IN%20PROGRESS&color=blue&style=for-the-badge)](https://github.com/vsantos1711/terraform-lambda-study?tab=readme-ov-file#to-do)
+## Description
 
 This project is a basic example of how to create a lambda function using TypeScript and Terraform. The lambda function is written in TypeScript and then transpiled to JavaScript for use by AWS Lambda. Terraform is used to create the necessary infrastructure on AWS and configure the lambda function.
 
@@ -22,7 +20,7 @@ This project is a basic example of how to create a lambda function using TypeScr
 
 ## System Architecture
 
-![Frame](assets/diagram.png)
+![Frame](https://raw.githubusercontent.com/vsantos1711/terraform-lambda-study/main/assets/diagram.png)
 
 ## To-do
 

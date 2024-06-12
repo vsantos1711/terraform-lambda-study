@@ -1,8 +1,8 @@
 # 🟪 Training the use of Terraform to create a lambda function
 
 <div align="center">
- <img src="assets/terraform-image.png" alt="Terraform logo" width="180px" height="155px" />
- <img src="assets/lambda-image.png" alt="AWS Lambda function logo" width="180" height="155px"/>
+ <img src="https://raw.githubusercontent.com/vsantos1711/terraform-lambda-study/main/assets/terraform-image.png" alt="Terraform logo" width="180px" height="155px" />
+ <img src="https://raw.githubusercontent.com/vsantos1711/terraform-lambda-study/main/assets/lambda-image.png" alt="AWS Lambda function logo" width="180" height="155px"/>
 </div>
 
 ## Description

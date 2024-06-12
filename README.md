@@ -20,7 +20,7 @@ This project is a basic example of how to create a lambda function using TypeScr
 
 ## System Architecture
 
-![Frame](assets/diagram.png)
+![Frame](https://raw.githubusercontent.com/vsantos1711/terraform-lambda-study/main/assets/diagram.png)
 
 ## To-do
 

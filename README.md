@@ -8,12 +8,12 @@ This project is a basic example of how to create a lambda function using TypeScr
 
 ## Technologies Used
 
-- **Typescript (Javascript):** The primary programming language for the project.
-- **Terraform:** Infrastructure as Code (IaC) tool used to provision AWS services.
-- **AWS Services:**
-  - **API Gateway:** Handles HTTP requests, serving as the entry point to the serverless architecture.
-  - **Lambda Functions:** Enables serverless compute for efficient and scalable processing.
-  - **DynamoDB:** NoSQL database service for scalable and low-latency data storage and retrieval.
+- **[Typescript (Javascript):](https://www.typescriptlang.org/)** The primary programming language for the project.
+- **[Terraform:](https://www.terraform.io/)** Infrastructure as Code (IaC) tool used to provision AWS services.
+- **[AWS Services:](https://aws.amazon.com/)**
+  - **[API Gateway:](https://aws.amazon.com/api-gateway/)** Handles HTTP requests, serving as the entry point to the serverless architecture.
+  - **[Lambda Functions:](https://aws.amazon.com/lambda/)** Enables serverless compute for efficient and scalable processing.
+  - **[DynamoDB:](https://aws.amazon.com/dynamodb)** NoSQL database service for scalable and low-latency data storage and retrieval.
 
 ## System Architecture
 
